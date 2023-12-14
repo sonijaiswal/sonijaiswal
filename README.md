@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Soni Jaiswal</h1>
-<h3 align="center">A Passionate Computer Engineer</h3>
-
+<h3 align="center">A Passionate Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonijaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="sonijaiswal" /> </p>
 
@@ -8,7 +7,30 @@
 
 - 🌱 I’m currently learning **Hadoop**
 
-- 💬 Ask me about **name: Soni Jaiswal located_in: Delhi,India current_job: Front-end Devloper education: [ " Bachelor's in Computer Science Engineering " ] fields_of_interests: [ "AI: - Reinforcement Learning - Data Science" "Web development", "Data Analyst", "Big Data" ] technical_background: [ "Intern- Web Development(Akdroid Nepal)", "Intern- Artificial Intelligence Engineer", ] current_Status: ["Focused on Big data Projects"] current_Goals: ["Do AI Projects and learn new day new things."] hobbies: ["Gaming", "Research"]**
+- 💬 Ask me about **name: Soni Jaiswal
+- located_in: Delhi,India
+- current_job: Front-end Devloper
+- education:
+-  [
+-    " Bachelor's in Computer Science Engineering "
+-  ]
+-  fields_of_interests:
+-  [
+-    "AI:
+-  - Reinforcement Learning
+   - - Data Science"
+     - "Web development",
+     - "Data Analyst",
+     - "Big Data"
+-   ]
+-    technical_background:
+-     [
+-       "Intern- Web Development(Akdroid Nepal)",
+-        "Intern- Artificial Intelligence Engineer",
+-  ]
+-  current_Status: ["Focused on Big data Projects"]
+-  current_Goals: ["Do AI Projects and learn new day new things."]
+-  hobbies: ["Gaming", "Research"]**
 
 - 📫 How to reach me **priyanshu464@gmail.com**
 
