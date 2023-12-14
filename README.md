@@ -1,5 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Soni Jaiswal</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonijaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="sonijaiswal" /> </p>
 
@@ -24,9 +26,9 @@
      - "Big Data"
 -   ]
 -    technical_background:
--     [
--       "Intern- Web Development(Akdroid Nepal)",
--        "Intern- Artificial Intelligence Engineer",
+-   [
+-          "Intern- Web Development(Akdroid Nepal)",
+-           "Intern- Artificial Intelligence Engineer",
 -  ]
 -  current_Status: ["Focused on Big data Projects"]
 -  current_Goals: ["Do AI Projects and learn new day new things."]
