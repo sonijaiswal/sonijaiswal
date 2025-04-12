@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Hadoop**
 
 - 💬 Ask me about **name: Soni Jaiswal
-- located_in: Delhi,India
+- located_in: Kathmandu,Nepal
 - current_job: Front-end Devloper
 - education:
 -  [
@@ -34,7 +34,7 @@
 -  current_Goals: ["Do AI Projects and learn new day new things."]
 -  hobbies: ["Gaming", "Research"]**
 
-- 📫 How to reach me **priyanshu464@gmail.com**
+- 📫 How to reach me **sonijais.62694@gmail.com**
 
 - ⚡ Fun fact **I love to read novel**
 
